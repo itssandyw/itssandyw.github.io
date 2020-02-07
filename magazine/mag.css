@@ -39,6 +39,7 @@ html, body{
 	position: absolute;
 	font-family: helvetica;
 	column-count: 2;
+	column-gap: 50px;
 	text-align: justify;
 	line-height: 1.5;
 	width: 60%;
@@ -49,6 +50,7 @@ html, body{
 	position: absolute;
 	font-family: helvetica;
 	column-count: 2;
+	column-gap: 50px;
 	text-align: justify;
 	line-height: 1.5;
 	width: 60%;
